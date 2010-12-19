@@ -1,0 +1,175 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* InstatwitAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 704}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 501}";
+		};
+	};
+	1D3623250D0F684500981E51 /* InstatwitAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1261}}";
+			sepNavSelRange = "{230, 0}";
+			sepNavVisRange = "{0, 556}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Instatwit */ = {
+		activeExec = 0;
+		executables = (
+			7C094E6D12B727F600DA95AC /* Instatwit */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* InstatwitViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 802}}";
+			sepNavSelRange = "{594, 0}";
+			sepNavVisRange = "{0, 616}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* InstatwitViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 1651}}";
+			sepNavSelRange = "{2718, 0}";
+			sepNavVisRange = "{1732, 2022}";
+			sepNavWindowFrame = "{{71, 855}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7C094E6D12B727F600DA95AC /* Instatwit */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Instatwit */;
+		codeSenseManager = 7C094E7D12B7280100DA95AC /* Code sense */;
+		executables = (
+			7C094E6D12B727F600DA95AC /* Instatwit */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					705,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314396626;
+			PBXWorkspaceStateSaveDate = 314396626;
+		};
+		perUserProjectItems = {
+			7C094E9F12B73A7C00DA95AC /* PBXTextBookmark */ = 7C094E9F12B73A7C00DA95AC /* PBXTextBookmark */;
+			7C094EA012B73A7C00DA95AC /* PBXTextBookmark */ = 7C094EA012B73A7C00DA95AC /* PBXTextBookmark */;
+			7CF0905A12BD657F00F01546 /* PBXTextBookmark */ = 7CF0905A12BD657F00F01546 /* PBXTextBookmark */;
+			7CF0905B12BD657F00F01546 /* PBXTextBookmark */ = 7CF0905B12BD657F00F01546 /* PBXTextBookmark */;
+			7CF0905C12BD657F00F01546 /* PBXTextBookmark */ = 7CF0905C12BD657F00F01546 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 7C094E7C12B7280100DA95AC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7C094E6D12B727F600DA95AC /* Instatwit */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Instatwit;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	7C094E7C12B7280100DA95AC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7C094E7D12B7280100DA95AC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7C094E9F12B73A7C00DA95AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* InstatwitAppDelegate.h */;
+		name = "InstatwitAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	7C094EA012B73A7C00DA95AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* InstatwitAppDelegate.m */;
+		name = "InstatwitAppDelegate.m: 12";
+		rLen = 0;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 1896;
+		vrLoc = 0;
+	};
+	7CF0905A12BD657F00F01546 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* InstatwitViewController.h */;
+		name = "InstatwitViewController.h: 21";
+		rLen = 0;
+		rLoc = 594;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 0;
+	};
+	7CF0905B12BD657F00F01546 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstatwitViewController.m */;
+		name = "InstatwitViewController.m: 115";
+		rLen = 0;
+		rLoc = 3724;
+		rType = 0;
+		vrLen = 2243;
+		vrLoc = 1260;
+	};
+	7CF0905C12BD657F00F01546 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* InstatwitViewController.m */;
+		name = "InstatwitViewController.m: 92";
+		rLen = 0;
+		rLoc = 2718;
+		rType = 0;
+		vrLen = 2022;
+		vrLoc = 1732;
+	};
+}
